@@ -53,7 +53,7 @@
 		"lint-staged": "^7.1.0",
 		"mockjs": "^1.0.1-beta3",
 		"moment-timezone": "^0.5.17",
-		"node-sass": "^4.9.0",
+		"node-sass": "^7.0.0",
 		"object-assign": "4.1.1",
 		"pleeease-filters": "^4.0.0",
 		"postcss-cssnext": "^3.1.0",
